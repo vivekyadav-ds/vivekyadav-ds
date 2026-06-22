@@ -9,7 +9,7 @@ Focused on building full-stack applications, strengthening computer science fund
 ## Tech Stack
 
 **Languages**
-Java • Python • JavaScript • SQL
+Java  • JavaScript 
 
 **Frontend**
 React • HTML • CSS
@@ -39,15 +39,6 @@ Full-stack accommodation booking platform inspired by Airbnb.
 * Responsive UI
 * MongoDB Integration
 
-### Library Management System
-
-Desktop application built using Python and Tkinter.
-
-**Key Features**
-
-* Book Management
-* User Management
-* Issue & Return Tracking
 
 ### DSA-LEETCODE
 
