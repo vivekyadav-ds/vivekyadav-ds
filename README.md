@@ -1,16 +1,72 @@
-## Hi there 👋
+# Vivek Yadav
 
-<!--
-**vivekyadav-ds/vivekyadav-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & Full-Stack Development
 
-Here are some ideas to get you started:
+B.Tech Data Science student at NIET, Greater Noida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on building full-stack applications, strengthening computer science fundamentals, and solving Data Structures & Algorithms problems in Java.
+
+## Tech Stack
+
+**Languages**
+Java • Python • JavaScript • SQL
+
+**Frontend**
+React • HTML • CSS
+
+**Backend**
+Node.js • Express.js
+
+**Database**
+MongoDB
+
+**Tools**
+Git • GitHub • VS Code
+
+---
+
+## Projects
+
+### Wanderlust
+
+Full-stack accommodation booking platform inspired by Airbnb.
+
+**Key Features**
+
+* Authentication & Authorization
+* Property Listing Management
+* CRUD Operations
+* Responsive UI
+* MongoDB Integration
+
+### Library Management System
+
+Desktop application built using Python and Tkinter.
+
+**Key Features**
+
+* Book Management
+* User Management
+* Issue & Return Tracking
+
+### DSA-LEETCODE
+
+Collection of Java solutions for Data Structures and Algorithms problems focused on coding interview preparation.
+
+---
+
+## Currently Working On
+
+* Advanced Data Structures & Algorithms
+* Backend Development
+* Scalable Full-Stack Applications
+
+---
+
+## Profiles
+
+GitHub: github.com/vivekyadav-ds
+
+LeetCode: leetcode.com/u/vivek_cod
+
+LinkedIn: linkedin.com/in/vivek-yadav9598
