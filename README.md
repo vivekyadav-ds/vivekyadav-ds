@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=vivekyadav-ds&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
 <a href="mailto:vy4715@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -30,15 +34,15 @@
 
 🎓 B.Tech Data Science Student at NIET, Greater Noida
 
-💻 Passionate about Java Development, DSA and Backend Engineering
-
-🌱 Currently learning Advanced Data Structures, Algorithms and System Design
+💻 Passionate about Java Development, Data Structures & Algorithms, and Backend Engineering
 
 🚀 Building Full-Stack Applications and Backend Services
 
-🤖 Exploring AI, Machine Learning and Data Science
+🌱 Currently learning Advanced DSA, System Design and Scalable Architectures
 
-🏆 Regular LeetCode Problem Solver
+🤖 Exploring Artificial Intelligence, Machine Learning and Data Science
+
+🏆 Consistently solving problems on LeetCode
 
 🎯 Goal: Become a Skilled Software Engineer and Build Impactful Products
 
@@ -46,11 +50,63 @@
 
 # 🚀 Tech Stack
 
-<p align="center">
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,git,github,vscode,postman" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
+
+Java • JavaScript
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+HTML5 • CSS3 • Bootstrap
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Node.js • Express.js
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+MongoDB • MySQL
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+Git • GitHub • VS Code • Postman
+
+---
+
+## 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+React • Next.js • System Design • Advanced DSA
 
 ---
 
@@ -62,12 +118,17 @@ Full-stack accommodation booking platform inspired by Airbnb.
 
 ### Features
 
-- Authentication & Authorization
-- Property Listing Management
-- CRUD Operations
-- Responsive UI
-- MongoDB Integration
-- Secure User Sessions
+✅ Authentication & Authorization
+
+✅ Property Listing Management
+
+✅ CRUD Operations
+
+✅ Responsive UI
+
+✅ MongoDB Integration
+
+✅ Secure User Sessions
 
 ### Tech Stack
 
@@ -81,16 +142,25 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 
 ### Topics Covered
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search
-- Sliding Window
-- Dynamic Programming
-- Graphs
+🔹 Arrays
+
+🔹 Strings
+
+🔹 Linked Lists
+
+🔹 Stacks
+
+🔹 Queues
+
+🔹 Trees
+
+🔹 Binary Search
+
+🔹 Sliding Window
+
+🔹 Dynamic Programming
+
+🔹 Graphs
 
 ---
 
@@ -114,7 +184,7 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav-ds&theme=tokyo-night"/>
@@ -135,24 +205,26 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 <p align="center">
 
 <a href="mailto:vy4715@gmail.com">
-<img src="https://img.shields.io/badge/Email-vy4715%40gmail.com-red?style=flat-square&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-vy4715%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/vivek-yadav9598">
-<img src="https://img.shields.io/badge/LinkedIn-Vivek%20Yadav-blue?style=flat-square&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vivek%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/vivek_cod/">
-<img src="https://img.shields.io/badge/LeetCode-vivek__cod-orange?style=flat-square&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-vivek__cod-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/vivekyadav-ds">
-<img src="https://img.shields.io/badge/GitHub-vivekyadav--ds-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-vivekyadav--ds-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
+
+# ✍️ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -160,8 +232,14 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 
 ---
 
-<h3 align="center">
+# 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<h2 align="center">
 ⭐ Code • Learn • Build • Repeat ⭐
-
-</h3>
+</h2>
