@@ -1,51 +1,29 @@
 
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
-<h3 align="center">B.Tech Data Science Student @ NIET, Greater Noida</h3>
+<h3 align="center">🚀 B.Tech Data Science Student | NIET Greater Noida</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;Machine+Learning+Learner;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;DSA+Problem+Solver;Full+Stack+Developer;Backend+Engineer;AI+%26+ML+Explorer;Future+Software+Engineer" />
 </p>
 
 ---
 
-<p align="center">
-
-<a href="mailto:vy4715@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/vivek-yadav9598">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/vivek_cod/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 🚀 About Me
+# 💫 About Me
 
 - 🎓 B.Tech Data Science Student at NIET, Greater Noida  
-- 💻 Passionate about Java Development and Backend Engineering  
-- 🌱 Currently learning Advanced DSA and System Design  
-- 🚀 Building Full-Stack Applications  
-- 🤖 Exploring AI, Machine Learning and Data Science  
-- 🏆 Regular LeetCode Problem Solver  
-- 🎯 Aspiring Software Engineer  
+- 💻 Passionate about Java, Backend & Full Stack Development  
+- 🚀 Building real-world scalable applications  
+- 🌱 Currently mastering DSA + System Design  
+- 🤖 Exploring AI, ML & Data Science  
+- 🏆 Active LeetCode Problem Solver  
+- 🎯 Goal: Software Engineer at Top Product Company  
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### ⚡ Programming Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java" />
 &nbsp;&nbsp;&nbsp;
@@ -54,7 +32,7 @@
 
 ---
 
-### Frontend Development
+### 🎨 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html" />
 &nbsp;&nbsp;&nbsp;
@@ -65,7 +43,7 @@
 
 ---
 
-### Backend Development
+### ⚙️ Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" />
 &nbsp;&nbsp;&nbsp;
@@ -74,7 +52,7 @@
 
 ---
 
-### Database
+### 🗄️ Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />
 &nbsp;&nbsp;&nbsp;
@@ -83,7 +61,7 @@
 
 ---
 
-### Tools & Platforms
+### 🛠️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" />
 &nbsp;&nbsp;&nbsp;
@@ -96,7 +74,7 @@
 
 ---
 
-### Currently Learning
+### 📚 Currently Learning
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />
 &nbsp;&nbsp;&nbsp;
@@ -108,36 +86,34 @@
 # 🌟 Featured Projects
 
 ## 🌍 Wanderlust
-Airbnb-inspired full-stack accommodation booking platform.
+🏠 Airbnb-inspired full-stack booking platform
 
-### Features
-- User Authentication & Authorization  
-- Property Listing Management  
+**Features:**
+- Authentication & Authorization  
+- Property Management  
 - CRUD Operations  
 - Secure Sessions  
 - Responsive UI  
-- Database Integration  
 
-### Tech Stack
-Node.js • Express.js • MongoDB • EJS • Bootstrap  
+**Tech Stack:** Node.js • Express • MongoDB • EJS  
 
 ---
 
 ## 📚 DSA Repository
-Collection of optimized Java solutions:
+💡 Problem solving collection:
 
 - Arrays  
 - Strings  
-- Linked Lists  
+- Linked List  
 - Trees  
 - Graphs  
-- Dynamic Programming  
+- DP  
 - Sliding Window  
 - Binary Search  
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -165,7 +141,31 @@ Collection of optimized Java solutions:
 
 ---
 
-# ✍️ Developer Quote
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vy4715@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/vivek-yadav9598">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/vivek_cod/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+</a>
+
+</p>
+
+---
+
+# ✨ Quote of the Day
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -173,4 +173,4 @@ Collection of optimized Java solutions:
 
 ---
 
-<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
+<h3 align="center">⭐ Build. Learn. Improve. Repeat. ⭐</h3>
