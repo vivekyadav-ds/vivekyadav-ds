@@ -3,120 +3,78 @@
 <h3 align="center">B.Tech Data Science Student @ NIET, Greater Noida</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;Learner;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;Machine+Learning+Learner;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
+<a href="mailto:vy4715@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/vivek-yadav9598">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/vivek_cod/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vy4715@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/vivekyadav-ds">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Data Science Student at NIET, Greater Noida
 - 💻 Passionate about Java Development and Backend Engineering
-- 🚀 Building Full-Stack Applications
 - 🌱 Currently learning Advanced DSA and System Design
+- 🚀 Building Full-Stack Applications
 - 🤖 Exploring AI, Machine Learning and Data Science
 - 🏆 Regular LeetCode Problem Solver
 - 🎯 Aspiring Software Engineer
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
-Java • JavaScript
+### Frontend Development
 
----
-
-### 🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-HTML5 • CSS3 • Bootstrap
+### Backend Development
 
----
-
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-Node.js • Express.js
+### Database
 
----
-
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-MongoDB • MySQL
+### Tools & Platforms
 
----
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-Git • GitHub • VS Code • Postman
+### Currently Learning
 
----
-
-### 📚 Currently Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
-
-React • Next.js • System Design • Advanced DSA
 
 ---
 
@@ -143,7 +101,7 @@ Node.js • Express.js • MongoDB • EJS • Bootstrap
 
 ## 📚 DSA Repository
 
-Collection of optimized Java solutions covering:
+Collection of optimized Java solutions for:
 
 - Arrays
 - Strings
@@ -176,10 +134,26 @@ Collection of optimized Java solutions covering:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vivekyadav-ds&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav-ds&theme=tokyo-night" />
+</p>
+
+---
+
 # 🏆 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/vivek_cod?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/vivek_cod?theme=dark&font=Karma" />
 </p>
 
 ---
@@ -189,27 +163,33 @@ Collection of optimized Java solutions covering:
 <p align="center">
 
 <a href="mailto:vy4715@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/vivek-yadav9598">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Vivek_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/vivek_cod/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/>
+<img src="https://img.shields.io/badge/LeetCode-vivek__cod-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/vivekyadav-ds">
+<img src="https://img.shields.io/badge/GitHub-vivekyadav--ds-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ✍️ Random Developer Quote
+# ✍️ Developer Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
+
+<h2 align="center">
+⭐ Code • Learn • Build • Repeat ⭐
+</h2>
