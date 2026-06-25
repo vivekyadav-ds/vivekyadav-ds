@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
-<h3 align="center">
-B.Tech Data Science Student | Java Developer | DSA Enthusiast | Full-Stack Developer
-</h3>
+<h3 align="center">B.Tech Data Science Student | Java Developer | DSA Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-Passionate about building scalable applications, solving DSA problems, and continuously improving software engineering skills.
+  <a href="mailto:vy4715@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/vivek-yadav9598">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/vivek_cod/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
 </p>
 
 ---
@@ -14,69 +20,74 @@ Passionate about building scalable applications, solving DSA problems, and conti
 
 🎓 B.Tech Data Science Student at NIET, Greater Noida
 
-💻 Currently focused on Java, Data Structures & Algorithms, and Backend Development
+💻 Passionate about Java Development, DSA and Backend Engineering
 
-🌱 Learning System Design, Advanced DSA, and Scalable Web Applications
+🌱 Currently learning Advanced Data Structures, Algorithms and System Design
 
 🔥 Solving LeetCode problems regularly
 
-🎯 Goal: Become a Software Engineer and build impactful products
+🤖 Interested in AI, Machine Learning and Data Science
+
+🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-### 🏨 Wanderlust
+### 🌍 Wanderlust
+
 Full-stack accommodation booking platform inspired by Airbnb.
 
-#### Features
-- User Authentication & Authorization
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS
+
+**Features**
+- Authentication & Authorization
 - Property Listing Management
 - CRUD Operations
 - Responsive UI
 - MongoDB Integration
-- Secure Backend APIs
 
 ---
 
 ### 📚 DSA-LeetCode
+
 Collection of Java solutions for Data Structures and Algorithms problems.
 
-#### Focus Areas
 - Arrays
 - Strings
 - Linked Lists
 - Trees
-- Graphs
 - Dynamic Programming
 - Sliding Window
 - Binary Search
@@ -86,11 +97,9 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekyadav-ds&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav-ds&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekyadav-ds&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav-ds&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -98,7 +107,7 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav-ds&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=vivekyadav-ds&theme=tokyonight" />
 </p>
 
 ---
@@ -106,55 +115,25 @@ Collection of Java solutions for Data Structures and Algorithms problems.
 ## 🏆 LeetCode
 
 <p align="center">
-Focused on mastering Data Structures & Algorithms through consistent problem solving.
+  <a href="https://leetcode.com/u/vivek_cod/">
+    <img src="https://leetcard.jacoblin.cool/vivek_cod?theme=dark&font=Karma" />
+  </a>
 </p>
-
-- Solving LeetCode regularly
-- Preparing for Software Engineering interviews
-- Strong focus on problem-solving patterns
-
----
-
-## 📚 Currently Learning
-
-- Advanced Data Structures
-- System Design Fundamentals
-- Backend Development
-- Database Optimization
-- Scalable Application Architecture
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+📧 Email: **vy4715@gmail.com**
 
-<a href="https://github.com/vivekyadav-ds">
-GitHub
-</a>
+💼 LinkedIn: **https://linkedin.com/in/vivek-yadav9598**
 
-|
+💻 GitHub: **https://github.com/vivekyadav-ds**
 
-<a href="your-linkedin-url">
-LinkedIn
-</a>
-
-|
-
-<a href="mailto:vy4715@gmail.com">
-Email
-</a>
-
-|
-
-<a href="https://leetcode.com/u/vivek_cod/">
-LeetCode
-</a>
-
-</p>
+🏆 LeetCode: **https://leetcode.com/u/vivek_cod/**
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+  <b>Code. Learn. Build. Repeat. 🚀</b>
 </p>
