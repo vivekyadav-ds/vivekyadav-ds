@@ -1,22 +1,32 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
-<h3 align="center">B.Tech Data Science Student | Java Developer | DSA Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">B.Tech Data Science Student @ NIET, Greater Noida</h3>
 
 <p align="center">
-  <a href="mailto:vy4715@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/vivek-yadav9598">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://leetcode.com/u/vivek_cod/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;Machine+Learning+Learner;Open+Source+Enthusiast;LeetCode+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="mailto:vy4715@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vivek-yadav9598">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/vivek_cod/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/vivekyadav-ds">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 🎓 B.Tech Data Science Student at NIET, Greater Noida
 
@@ -24,116 +34,134 @@
 
 🌱 Currently learning Advanced Data Structures, Algorithms and System Design
 
-🔥 Solving LeetCode problems regularly
+🚀 Building Full-Stack Applications and Backend Services
 
-🤖 Interested in AI, Machine Learning and Data Science
+🤖 Exploring AI, Machine Learning and Data Science
 
-🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
+🏆 Regular LeetCode Problem Solver
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🎯 Goal: Become a Skilled Software Engineer and Build Impactful Products
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Tech Stack
 
-### 🌍 Wanderlust
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🌍 Wanderlust
 
 Full-stack accommodation booking platform inspired by Airbnb.
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS
+### Features
 
-**Features**
 - Authentication & Authorization
 - Property Listing Management
 - CRUD Operations
 - Responsive UI
 - MongoDB Integration
+- Secure User Sessions
+
+### Tech Stack
+
+Node.js • Express.js • MongoDB • EJS • Bootstrap
 
 ---
 
-### 📚 DSA-LeetCode
+## 📚 DSA-LeetCode
 
 Collection of Java solutions for Data Structures and Algorithms problems.
+
+### Topics Covered
 
 - Arrays
 - Strings
 - Linked Lists
+- Stacks
+- Queues
 - Trees
-- Dynamic Programming
-- Sliding Window
 - Binary Search
+- Sliding Window
+- Dynamic Programming
+- Graphs
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekyadav-ds&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav-ds&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekyadav-ds&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav-ds&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekyadav-ds&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=vivekyadav-ds&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 LeetCode
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://leetcode.com/u/vivek_cod/">
-    <img src="https://leetcard.jacoblin.cool/vivek_cod?theme=dark&font=Karma" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav-ds&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 LeetCode Stats
 
-📧 Email: **vy4715@gmail.com**
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/vivek_cod?theme=dark&font=Karma"/>
+</p>
 
-💼 LinkedIn: **https://linkedin.com/in/vivek-yadav9598**
+---
 
-💻 GitHub: **https://github.com/vivekyadav-ds**
+# 🌐 Connect With Me
 
-🏆 LeetCode: **https://leetcode.com/u/vivek_cod/**
+<p align="center">
+
+<a href="mailto:vy4715@gmail.com">
+<img src="https://img.shields.io/badge/Email-vy4715%40gmail.com-red?style=flat-square&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/vivek-yadav9598">
+<img src="https://img.shields.io/badge/LinkedIn-Vivek%20Yadav-blue?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/vivek_cod/">
+<img src="https://img.shields.io/badge/LeetCode-vivek__cod-orange?style=flat-square&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/vivekyadav-ds">
+<img src="https://img.shields.io/badge/GitHub-vivekyadav--ds-black?style=flat-square&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>Code. Learn. Build. Repeat. 🚀</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
+
+<h3 align="center">
+
+⭐ Code • Learn • Build • Repeat ⭐
+
+</h3>
