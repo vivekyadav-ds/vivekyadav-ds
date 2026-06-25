@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
-<h3 align="center">🚀 B.Tech Data Science Student | NIET Greater Noida</h3>
+<h3 align="center">🚀 B.Tech Data Science Student @ NIET, Greater Noida</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;DSA+Problem+Solver;Full+Stack+Developer;Backend+Engineer;AI+%26+ML+Explorer;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;AI+%26+ML+Learner;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 # 💫 About Me
 
 - 🎓 B.Tech Data Science Student at NIET, Greater Noida  
-- 💻 Passionate about Java, Backend & Full Stack Development  
-- 🚀 Building real-world scalable applications  
-- 🌱 Currently mastering DSA + System Design  
-- 🤖 Exploring AI, ML & Data Science  
+- 💻 Passionate about Java & Backend Development  
+- 🚀 Building Full Stack Projects  
+- 🌱 Learning Advanced DSA + System Design  
+- 🤖 Exploring AI / ML / Data Science  
 - 🏆 Active LeetCode Problem Solver  
-- 🎯 Goal: Software Engineer at Top Product Company  
+- 🎯 Goal: Software Engineer at Top Tech Company  
 
 ---
 
@@ -86,11 +86,11 @@
 # 🌟 Featured Projects
 
 ## 🌍 Wanderlust
-🏠 Airbnb-inspired full-stack booking platform
+Airbnb-style full-stack booking platform
 
 **Features:**
 - Authentication & Authorization  
-- Property Management  
+- Property Listing System  
 - CRUD Operations  
 - Secure Sessions  
 - Responsive UI  
@@ -100,14 +100,14 @@
 ---
 
 ## 📚 DSA Repository
-💡 Problem solving collection:
+Java DSA problem solving collection:
 
 - Arrays  
 - Strings  
 - Linked List  
 - Trees  
 - Graphs  
-- DP  
+- Dynamic Programming  
 - Sliding Window  
 - Binary Search  
 
@@ -158,14 +158,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/vivek_cod/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" />
 </a>
 
 </p>
 
 ---
 
-# ✨ Quote of the Day
+# ✨ Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -173,4 +173,4 @@
 
 ---
 
-<h3 align="center">⭐ Build. Learn. Improve. Repeat. ⭐</h3>
+<h3 align="center">⭐ Build • Learn • Improve • Repeat ⭐</h3>
