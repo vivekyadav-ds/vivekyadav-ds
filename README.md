@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
 <h3 align="center">B.Tech Data Science Student @ NIET, Greater Noida</h3>
@@ -6,15 +7,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Backend+Developer;Machine+Learning+Learner;Problem+Solver;Future+Software+Engineer" />
 </p>
 
+---
+
 <p align="center">
 
 <a href="mailto:vy4715@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/vivek-yadav9598">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/vivek_cod/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -24,7 +31,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Data Science Student at NIET, Greater Noida  
 - 💻 Passionate about Java Development and Backend Engineering  
@@ -39,33 +46,61 @@
 # 💻 Tech Stack
 
 ### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" />
 </p>
+
+---
 
 ### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
+
+---
 
 ### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" />
 </p>
+
+---
 
 ### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+---
 
 ### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
+---
+
 ### Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 ---
@@ -76,29 +111,29 @@
 Airbnb-inspired full-stack accommodation booking platform.
 
 ### Features
-- User Authentication & Authorization
-- Property Listing Management
-- CRUD Operations
-- Secure Sessions
-- Responsive Design
-- Cloud Database Integration
+- User Authentication & Authorization  
+- Property Listing Management  
+- CRUD Operations  
+- Secure Sessions  
+- Responsive UI  
+- Database Integration  
 
 ### Tech Stack
-Node.js • Express.js • MongoDB • EJS • Bootstrap
+Node.js • Express.js • MongoDB • EJS • Bootstrap  
 
 ---
 
 ## 📚 DSA Repository
 Collection of optimized Java solutions:
 
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Sliding Window
-- Binary Search
+- Arrays  
+- Strings  
+- Linked Lists  
+- Trees  
+- Graphs  
+- Dynamic Programming  
+- Sliding Window  
+- Binary Search  
 
 ---
 
@@ -135,3 +170,7 @@ Collection of optimized Java solutions:
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+---
+
+<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
