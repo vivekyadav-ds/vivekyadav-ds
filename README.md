@@ -143,7 +143,7 @@ Java DSA problem solving collection:
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="mailto:vy4715@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
